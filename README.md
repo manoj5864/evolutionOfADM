@@ -13,3 +13,6 @@ The image below shows the end-to-end publication selection process and the final
 
 ### Search strategy
 ![Visualization of the search strategy](https://github.com/manoj5864/evolutionOfADM/blob/master/searchProcess.png?raw=true "Search process that resulted in 255 publications, that had been selected for the further analysis")
+
+### Note
+Detailed overview is available here: https://mediatum.ub.tum.de/1521926
